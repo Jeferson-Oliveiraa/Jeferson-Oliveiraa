@@ -4,7 +4,7 @@ Sou Jeferson, estou em busca de experiências como estágio na aréa de Desenvol
 
 Tenho paixão por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 
-### 🌎 "Jó 22:28 Determinando tu algum negócio, ser-te-á firme, e a luz brilhará em teus caminhos" 🙌🏽
+### 🌎 "Jó 22:28 Determinando tu algum negócio, ser-te-á firme, e a luz brilhará em teus caminhos" 🙏
 
 📍 São Paulo-So / Zona Oeste / Butantã.
 👨🏿‍💻 Estágio ADS C#
