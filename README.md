@@ -9,4 +9,4 @@ Tenho paixão por resolver problemas e aprender. Sempre aberto a novos desafios 
 📍 São Paulo-So / Zona Oeste / Butantã.
 👨🏿‍💻 Estágio ADS C#
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jeferson%20Oliveira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-santos1/)](https://www.linkedin.com/in/jeferson-santos1/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Jeferson%20Santos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-santos1/)](https://www.linkedin.com/in/jeferson-santos1/) 
