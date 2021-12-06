@@ -1,9 +1,10 @@
-### Hi there 👋
+# Olá 👋
 
-<!--
-**Jeferson143/Jeferson143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Jeferson, estou em busca de experiências como estágio na aréa de Desenvolvedor, estou cursando ADS|FAM, fora a faculdade também tenho me dedicado a outros cursos complementares para aprimorar meus conhecimentos e pratico com projetos o que tenho aprendido. 
 
-Here are some ideas to get you started:
+Tenho paixão por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças.
+
+### 🌎 "Jó 22:28 Determinando tu algum negócio, ser-te-á firme, e a luz brilhará em teus caminhos" 🙌🏽
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
