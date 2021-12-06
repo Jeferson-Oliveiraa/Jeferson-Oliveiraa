@@ -1,6 +1,6 @@
 # Olá 👋
 
-Sou Jeferson, atualmente estudante na área de desenvolvimento e buscando oportunidades para colocar meus conhecimentos em prática, estou cursando ADS|FAM, fora a faculdade também tenho me dedicado a outros cursos complementares para aprimorar meus conhecimentos e prático com projetos o que tenho aprendido. 
+Sou Jeferson, atualmente estudante na área de desenvolvimento e buscando oportunidades para colocar meus conhecimentos em prática, tenho me dedicado a faculdade e cursos complementares para aprimorar meus conhecimentos e prático com projetos o que tenho aprendido. 
 
 Tenho paixão por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 
