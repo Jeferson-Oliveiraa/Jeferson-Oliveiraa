@@ -8,4 +8,4 @@ Tenho paixão por resolver problemas e aprender. Sempre aberto a novos desafios 
 
 📍 São Paulo-Sp / Zona Oeste / Butantã.
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jeferson%20Santos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-santos1/)](https://www.linkedin.com/in/jeferson-santos1/) [![Gmail Badge](https://img.shields.io/badge/-Jeferson143@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Jeferson143@hotmail.com)](mailto:Jeferson143@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Jeferson%20Santos-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-santos1/)](https://www.linkedin.com/in/jeferson-santos1/)   [![Gmail Badge](https://img.shields.io/badge/-Jeferson143@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Jeferson143@hotmail.com)](mailto:Jeferson143@hotmail.com)
