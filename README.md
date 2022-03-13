@@ -7,7 +7,7 @@ Tenho paixão por resolver problemas e aprender. Sempre aberto a novos desafios 
 ### 🌎 "Jó 22:28 Determinando tu algum negócio, ser-te-á firme, e a luz brilhará em teus caminhos" 🙏
 
 - 📍 **São Paulo-SP:** Zona Oeste/ Butantã
-- 💻 **Linguagem:** C # | Python
+- 💻 **Linguagem:** C# | Python
 - 🔧 **Ferramenta:** Visual Studio | .Net Code | Pycharm
 - 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas e Bootcamp Fullstack Developer
 
