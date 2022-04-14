@@ -1,3 +1,4 @@
+|![Github Page Visit Count](https://komarev.com/ghpvc/?username=jeferson143)||
 # Olá 👋
 
 Sou Jeferson, atualmente estudante na área de desenvolvimento e buscando oportunidades para colocar meus conhecimentos em prática, tenho me dedicado a faculdade e cursos complementares para aprimorar meus conhecimentos e prático com projetos o que tenho aprendido. 
