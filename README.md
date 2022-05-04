@@ -8,7 +8,7 @@ Tenho paixão por resolver problemas e aprender. Sempre aberto a novos desafios 
 
 
 - 📍  **São Paulo-SP:** Zona Oeste/ Butantã
-- 💻 Linguagem: C#, Python, SQL, MYSQL
+- 💻 Linguagem: C# | Python | SQL | MYSQL
 - 🔧 **Ferramenta:** Visual Studio | Pycharm 
 - 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas e Cursos Complementares.
 
