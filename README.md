@@ -5,7 +5,7 @@ Sou Jeferson, atualmente estudante na área de desenvolvimento e buscando oportu
 Tenho paixão por resolver problemas e aprender. Sempre aberto a novos desafios e pronto para enfrentar mudanças.
 
 - 📍  **São Paulo-SP:** Zona Oeste/ Butantã
-- 💻 Linguagens: C# | Python | JavaScript
+- 💻 Linguagens: C# .NET | Python | JavaScript
 - 🔧 **Ferramentas e Tecnologias:** Visual Studio | Visual Studio Code | Pycharm | SQLite | MySql | Postman | REST APIs Flask | CSS | HTML 
 - 🎓 **Formação:** Cursando Análise e Desenvolvimento de Sistemas e Cursos Complementares.
 
